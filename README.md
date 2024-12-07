@@ -2,6 +2,9 @@
 
 <p><strong>Open Redirect Finder</strong> is an automation tool used to detect open redirect vulnerabilities on a URL.</p>
 
+![Open-Redirect-Finder Jenderal92](https://github.com/user-attachments/assets/33e3aef8-40e8-45f7-b62a-ce76265ff04b)
+
+
 ## Features
 
 <ul>
@@ -48,3 +51,7 @@
         <p>The test results will be saved in the <code>results.txt</code> file. This file contains a list of vulnerable URLs along with the payload used to exploit the open redirect vulnerability.</p>
     </li>
 </ol>
+
+## Disclaimer !!!
+
+<p>I have written the disclaimer on the cover of Jenderal92. You can check it <a href="https://github.com/Jenderal92">HERE !!!</a></p>
